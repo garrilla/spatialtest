@@ -13,6 +13,12 @@
           1
         ],
         "style": {}
+      },
+      "ideas": {
+        "1": {
+          "title": "timeframe",
+          "id": 8
+        }
       }
     },
     "-1": {
@@ -20,8 +26,8 @@
       "id": 3,
       "attr": {
         "position": [
-          117,
-          60.0298221281347,
+          131.5,
+          63.0298221281347,
           2
         ],
         "style": {}
@@ -29,9 +35,35 @@
       "ideas": {
         "1": {
           "title": "policy context",
-          "id": 4
+          "id": 4,
+          "ideas": {
+            "1": {
+              "title": "scale",
+              "id": 9
+            }
+          },
+          "attr": {
+            "style": {}
+          }
+        },
+        "2": {
+          "title": "previous solutions",
+          "id": 10,
+          "ideas": {}
         }
       }
     }
-  }
+  },
+  "links": [
+    {
+      "ideaIdFrom": 9,
+      "ideaIdTo": 3,
+      "attr": {
+        "style": {
+          "color": "#FF0000",
+          "lineStyle": "dashed"
+        }
+      }
+    }
+  ]
 }
