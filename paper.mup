@@ -1,0 +1,37 @@
+{
+  "title": "paper",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "practical",
+      "id": 2,
+      "attr": {
+        "position": [
+          53,
+          74.0298221281347,
+          1
+        ],
+        "style": {}
+      }
+    },
+    "-1": {
+      "title": "theortical",
+      "id": 3,
+      "attr": {
+        "position": [
+          117,
+          60.0298221281347,
+          2
+        ],
+        "style": {}
+      },
+      "ideas": {
+        "1": {
+          "title": "policy context",
+          "id": 4
+        }
+      }
+    }
+  }
+}
